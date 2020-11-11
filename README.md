@@ -11,4 +11,4 @@ Word vectos are 300 dimensional.
 
 In the code, I have used both simple Logistic Regression, cross validation in Logistic Regression, and feed forward fully connected neural network with single hidden layer. 
 
-Datasets on which the code has been tested is there in the dataset folder.
+I have tested the code on MR, CR, TREC, SST-1, SST-2, Subj and MPQA datasets. Metric used in the evaluation is the accuracy. 
